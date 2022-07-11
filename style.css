@@ -148,19 +148,19 @@
 /* adaptive */
 @media (max-width: 768px){
     .eans {
-        margin: 20px 37vw;
+        margin: 20px 27vw;
     }
     .shtrih_number {
-        left: 43.5%;
+        left: 38.5%;
     }
     .yellow_ring {
-        top: 40%;
+        top: 27%;
     }
     .balance {
-        top: 47%;
+        top: 32%;
     }
     .bonusov {
-        top: 64%;
+        top: 42%;
         font-size: 20px ;
     }
 }
